@@ -28,7 +28,20 @@
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
-		<string>armv7</string>
+		<string></string>
+	</array>
+	<key>FacebookAppID</key>
+	<string>376253995862921</string>
+	<key>FacebookDisplayName</key>
+	<string>Don&apos;t Worry Be Happy</string>
+	<key>URL types</key>
+	<array>
+		<dict>
+			<key>URL Schemes</key>
+			<array>
+				<string>fb376253995862921</string>
+			</array>
+		</dict>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
